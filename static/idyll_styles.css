@@ -601,7 +601,6 @@ h5,
 h6 {
   margin-top: 0;
   margin-bottom: 0;
-  color: #0082cb;
 }
 
 h1 {
@@ -1304,4 +1303,8 @@ img {
   .d3-component svg {
     max-height: 200px;
   }
+}
+
+h2 {
+  color: #0082cb;
 }
